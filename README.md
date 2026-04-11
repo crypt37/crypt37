@@ -5,15 +5,15 @@ Full-stack engineer building **products for communities**. Currently working on 
 ## 🚀 What I'm Building
 
 **Active Products:**
-- **[ControllaAI.com](https://controlla.com)** - Main platform (3,800+ commits)
-- **[LMS Platform](https://github.com/crypt37/line-academy-lms)** - Learning Management System for education tech
-- **[ResidenceHub](https://github.com/crypt37/residency-app)** - Housing management system (React Native, Expo)
-- **[trade-flow](https://github.com/crypt37/trade-flow)** - Commerce/ERP platform
-- **[Payroll SaaS](https://github.com/crypt37/payroll-draft)** - HR platform with design systems (Phase 0 complete)
+- **ERP Platform** - Enterprise resource planning system (3,800+ commits)
+- **LMS** - Learning Management System for education tech
+- **Housing Management System** - Community residential platform (React Native, Expo)
+- **Commerce Platform** - E-commerce and trading solutions
+- **HR SaaS** - Human resources platform with design systems (Phase 0 complete)
 
 **Community Projects:**
-- BanepaCooperative - Local cooperative management
-- Nepali PMI Web App - Project management for Nepal
+- Cooperative Management System - Local cooperative operations
+- PMI Web Application - Project management tools
 
 ## 💻 Tech Stack
 
@@ -40,17 +40,17 @@ Full-stack engineer building **products for communities**. Currently working on 
 
 ## 📊 GitHub Stats
 
-- **3,839 commits** on ControllaAI.com (flagship product)
+- **3,839 commits** on ERP platform (flagship product)
 - **351 commits** on LMS platform
-- **173 commits** on Line Academy infrastructure
+- **173 commits** on core infrastructure
 - Multiple active projects spanning web, mobile, and design
 
 ## 🔧 Currently Working On
 
-- 📄 **Roadmap Documents** - Planning next phases
-- 🏗️ **Report Builder** - Advanced analytics for ControllaAI
-- 📊 **Supabase Monitoring** - Production health tracking
-- 🎯 **ERP Demos** - Showcasing commerce capabilities
+- 📄 **Roadmap Documentation** - Planning next phases
+- 🏗️ **Report Builder** - Advanced analytics features
+- 📊 **Monitoring Systems** - Production health tracking
+- 🎯 **Demo Improvements** - Showcasing capabilities
 
 ## 🌱 Always Learning
 
@@ -67,10 +67,10 @@ Full-stack engineer building **products for communities**. Currently working on 
 
 ---
 
-**Latest Project Updates:**
-- ControllaAI: Report workspace implementation in progress
-- LMS: Supabase optimization ongoing
-- trade-flow: Demo-ready commerce platform
-- Payroll: Design system foundation established ✓
+**Latest Focus Areas:**
+- Enterprise platform report generation
+- LMS optimization and monitoring
+- Commerce platform demos
+- HR platform design foundations
 
 *"Building better tools for teams and communities."*
