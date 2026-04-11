@@ -5,11 +5,11 @@ Full-stack engineer building **products for communities**. Currently working on 
 ## 🚀 What I'm Building
 
 **Active Products:**
-- **ERP Platform** - Enterprise resource planning system (3,800+ commits)
+- **ERP Platform** - Enterprise resource planning system 
 - **LMS** - Learning Management System for education tech
 - **Housing Management System** - Community residential platform (React Native, Expo)
 - **Commerce Platform** - E-commerce and trading solutions
-- **HR SaaS** - Human resources platform with design systems (Phase 0 complete)
+- **HR SaaS** - Human resources platform with design systems 
 
 **Community Projects:**
 - Cooperative Management System - Local cooperative operations
@@ -38,12 +38,6 @@ Full-stack engineer building **products for communities**. Currently working on 
 🇳🇵 **Community tech** - Products solving local problems  
 📚 **Learning platforms** - EdTech and knowledge management  
 
-## 📊 GitHub Stats
-
-- **3,839 commits** on ERP platform (flagship product)
-- **351 commits** on LMS platform
-- **173 commits** on core infrastructure
-- Multiple active projects spanning web, mobile, and design
 
 ## 🔧 Currently Working On
 
