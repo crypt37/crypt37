@@ -58,6 +58,7 @@ Full-stack engineer building **products for communities**. Currently working on 
 - 📧 Email: sjnbhttr@gmail.com
 - 🐙 GitHub: [@crypt37](https://github.com/crypt37)
 - 💼 Building with passion in Nepal
+- 
 
 ---
 
@@ -66,5 +67,8 @@ Full-stack engineer building **products for communities**. Currently working on 
 - LMS optimization and monitoring
 - Commerce platform demos
 - HR platform design foundations
+
+**Git basics resources**
+https://drive.google.com/drive/folders/1NrredGVz42gJMH2fJbanuZNAH1qDSIyU?usp=drive_link
 
 *"Building better tools for teams and communities."*
