@@ -71,4 +71,7 @@ Full-stack engineer building **products for communities**. Currently working on 
 **Git basics resources**
 https://drive.google.com/drive/folders/1NrredGVz42gJMH2fJbanuZNAH1qDSIyU?usp=drive_link
 
+**15-day-bootcamp resources**
+https://drive.google.com/drive/folders/1xoSfUGHxN1HwfA7ppo2w6MZ7mC31kp9B?usp=sharing
+
 *"Building better tools for teams and communities."*
